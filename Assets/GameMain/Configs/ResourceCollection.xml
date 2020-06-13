@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="Configs/DefaultConfig" LoadType="0" Packed="True" />
+      <Resource Name="DataTables/Test" LoadType="0" Packed="True" />
+      <Resource Name="Fonts/MainFont" LoadType="0" Packed="False" />
+      <Resource Name="Localization/ChineseSimplified/Dictionaries/Default" LoadType="0" Packed="True" />
+      <Resource Name="Localization/ChineseTraditional/Dictionaries/Default" LoadType="0" Packed="True" />
+      <Resource Name="Localization/English/Dictionaries/Default" LoadType="0" Packed="True" />
+      <Resource Name="Localization/Korean/Dictionaries/Default" LoadType="0" Packed="True" />
+      <Resource Name="Scenes/Main" LoadType="0" Packed="True" />
+      <Resource Name="Scripts/Scene/SampleScene" LoadType="0" Packed="True" />
+      <Resource Name="UI/UIForms/AboutAuthorForm" LoadType="0" Packed="True" />
+      <Resource Name="UI/UIForms/AboutForm" LoadType="0" Packed="True" />
+      <Resource Name="UI/UIForms/DialogForm" LoadType="0" Packed="True" />
+      <Resource Name="UI/UIForms/MenuForm" LoadType="0" Packed="True" />
+      <Resource Name="UI/UIForms/SettingForm" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISounds/click" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISounds/select" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/background" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/box" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/button-filled" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/button-outline" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/checked" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/circle" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/circle-filled" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/circle-outline" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/dialog-background" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/dialog-title-background" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/info" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/line" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/progressbar" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/progressbar-background" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/progress-conner" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/round-button-filled" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Common/round-button-outline" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Icons/music" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Icons/sound" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Icons/world" LoadType="0" Packed="True" />
+      <Resource Name="UI/UISprites/Logos/unity-logo" LoadType="0" Packed="True" />
+    </Resources>
+    <Assets>
+      <Asset Guid="0179316b5fc7c2946a67c5877c02fc30" ResourceName="UI/UISprites/Common/info" />
+      <Asset Guid="04d7dde7615d71b4db1a0c8d67a62e95" ResourceName="UI/UIForms/DialogForm" />
+      <Asset Guid="09966b19e546cc94aa84d0743cb2a83d" ResourceName="UI/UIForms/MenuForm" />
+      <Asset Guid="0a65a68c01a76ea4b8b574827a6467aa" ResourceName="UI/UISprites/Common/dialog-title-background" />
+      <Asset Guid="1053b0070685be347ab58587156842dc" ResourceName="Localization/ChineseTraditional/Dictionaries/Default" />
+      <Asset Guid="134bea3a47cb3d644bf8e8a89e48622c" ResourceName="DataTables/Test" />
+      <Asset Guid="14869ac0d4433f04db1704e39d03412e" ResourceName="Localization/English/Dictionaries/Default" />
+      <Asset Guid="156d241f796508c4da4fc354a7fbf5a8" ResourceName="UI/UISprites/Common/progressbar-background" />
+      <Asset Guid="236433a27ce40a7429b87d14d8fa3035" ResourceName="UI/UISprites/Common/progress-conner" />
+      <Asset Guid="24ca310f92a6796408f1db7647ec4e55" ResourceName="UI/UISprites/Common/circle" />
+      <Asset Guid="2630c0a31d19991438f440dcf91ac8ee" ResourceName="DataTables/Test" />
+      <Asset Guid="3aa539b1e46111d4299a83c73ebe762c" ResourceName="UI/UIForms/AboutForm" />
+      <Asset Guid="3be3fac3611f4584695662c4889f722d" ResourceName="UI/UISprites/Common/circle-outline" />
+      <Asset Guid="3f54fcfdac53aec42ae18a6a1c6d8cb1" ResourceName="UI/UISprites/Common/checked" />
+      <Asset Guid="4473d81b14ddb0143addf0e6050d8491" ResourceName="Scenes/Main" />
+      <Asset Guid="44c8db52241385c45bbb14a1718f17bf" ResourceName="Configs/DefaultConfig" />
+      <Asset Guid="56b8df63bbad60749a69e38bc687fadf" ResourceName="UI/UISprites/Common/circle-filled" />
+      <Asset Guid="5dcd89912e222bf4c87f76db4044bc5e" ResourceName="Localization/Korean/Dictionaries/Default" />
+      <Asset Guid="62af9e5c8f39cfa49af9e10ccf42f1da" ResourceName="UI/UISprites/Common/round-button-outline" />
+      <Asset Guid="6cbc2c323b77f804fb958fa4eca33998" ResourceName="UI/UISprites/Common/line" />
+      <Asset Guid="77cbb7c5404c10242ab59953e0746314" ResourceName="Fonts/MainFont" />
+      <Asset Guid="7f5aee8da226edf4991598327cb32ce0" ResourceName="UI/UISprites/Logos/unity-logo" />
+      <Asset Guid="7fd11dc5d29076d469d414dec2818f11" ResourceName="Configs/DefaultConfig" />
+      <Asset Guid="9be2e1e45f4edd74c8764538ad306b78" ResourceName="Localization/ChineseSimplified/Dictionaries/Default" />
+      <Asset Guid="9f847ec5e66e03e4ead1d3c5f7b510e8" ResourceName="UI/UISprites/Common/button-filled" />
+      <Asset Guid="9fc0d4010bbf28b4594072e72b8655ab" ResourceName="Scripts/Scene/SampleScene" />
+      <Asset Guid="a8c07bbe04fdaf04b80e27f651a8edd6" ResourceName="UI/UISprites/Common/button-outline" />
+      <Asset Guid="ab45c3f613f388d43bbf43ec05eb92e2" ResourceName="UI/UISprites/Common/dialog-background" />
+      <Asset Guid="bbfd75fe6fe00e1448fe988173ede7f9" ResourceName="UI/UIForms/SettingForm" />
+      <Asset Guid="c7d1e11dd37634b48a9dd4012b8e4306" ResourceName="UI/UISounds/click" />
+      <Asset Guid="cadd0764941c8b646ae79b51d0ea8285" ResourceName="UI/UISprites/Common/background" />
+      <Asset Guid="ceaca5b996330c048b4015ae525f70d0" ResourceName="UI/UIForms/AboutAuthorForm" />
+      <Asset Guid="db58965402f12ed47b4dad61a9e48c9d" ResourceName="UI/UISprites/Icons/world" />
+      <Asset Guid="e5ca26c53b6ab8a46b52817008d7c7fa" ResourceName="UI/UISprites/Icons/sound" />
+      <Asset Guid="e82837c9099f69a48b48fc44eb8d119d" ResourceName="UI/UISprites/Common/progressbar" />
+      <Asset Guid="e830964cdb85ff3429bca484c16bab44" ResourceName="UI/UISounds/select" />
+      <Asset Guid="e85864330b68dde498dcb6e8711815d3" ResourceName="UI/UISprites/Common/round-button-filled" />
+      <Asset Guid="f2f4df0b7211e4c42a5638273525d8ee" ResourceName="UI/UISprites/Common/box" />
+      <Asset Guid="f438a72a91e1c3c4a9ced40888ffec96" ResourceName="UI/UISprites/Icons/music" />
+    </Assets>
+  </ResourceCollection>
+</UnityGameFramework>
